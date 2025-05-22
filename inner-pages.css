@@ -160,7 +160,7 @@ body {
 }
 
 .post-content {
-    padding: 1.5rem;
+    padding: 0.8rem;
 }
 
 .post-category {
@@ -334,6 +334,12 @@ body {
     }
     .newsletter-form button {
         width: 100%;
+    }
+    .post-content h3 {
+        font-size: 1rem;
+    }
+    .post-content p {
+        font-size: 0.7rem;
     }
     @media (max-width: 480px) {
         .hero h1 {

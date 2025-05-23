@@ -221,8 +221,8 @@ body {
 
 .blog-layout {
     display: grid;
-    grid-template-columns: 1fr 300px;
-    gap: 2rem;
+    /* grid-template-columns: 1fr 300px; */
+    gap: 3rem;
 }
 
 .sidebar {

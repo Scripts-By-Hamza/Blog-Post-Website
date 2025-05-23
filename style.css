@@ -400,12 +400,12 @@ body {
 /* Responsive Design */
 
 @media (max-width: 1024px) {
-    .blog-layout {
+    /* .blog-layout {
         grid-template-columns: 1fr;
     }
     .sidebar {
         order: -1;
-    }
+    } */
 }
 
 @media (max-width: 764px) {
